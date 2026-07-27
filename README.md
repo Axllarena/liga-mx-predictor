@@ -34,4 +34,4 @@ This project is my hands-on path into data science and Python, using something I
 
 ## Author
 
-[Tu nombre] — Systems Engineering student
+Pedro Axel Llarena Padilla — Systems Engineering student
